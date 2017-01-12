@@ -1,6 +1,9 @@
+adelaine
 adriana
+adriely
 agata
 alana
+alexandra
 alice
 alicia
 aline
@@ -11,11 +14,16 @@ ana cristina
 ana paula
 anabela
 andressa
+angela
 angelica
+angelina
 anita
+antonia
 ariadne
 ariana
 ariela
+ariele
+arielle
 aurora
 barbara
 beatriz
@@ -23,15 +31,22 @@ bianca
 brenda
 bruna
 camila
+camilla
+camilly
 carla
 carol
 carolina
 caroline
 catarina
+catia
 cecilia
 clara
 clarissa
 clarisse
+claudia
+claudya
+cleici
+cristina
 daniela
 debora
 diana
@@ -41,6 +56,7 @@ emanuela
 emanuele
 emanuelle
 erica
+erika
 estela
 ester
 eva
@@ -59,6 +75,7 @@ isa
 isabel
 isadora
 isis
+ivonete
 jade
 janaina
 jessica
@@ -70,6 +87,7 @@ juliana
 karen
 karla
 kelly
+kristina
 laila
 lais
 lara
@@ -103,6 +121,7 @@ melissa
 micaela
 milene
 monica
+naiane
 natalia
 nathalia
 nicole
@@ -135,7 +154,9 @@ tais
 talita
 tamara
 tamires
+thais
 thamires
+thays
 valentina
 vanessa
 vitoria
