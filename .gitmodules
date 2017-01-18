@@ -1,0 +1,3 @@
+[submodule "BRDumps-wordlists"]
+	path = BRDumps-wordlists
+	url = https://github.com/BRDumps/wordlists
