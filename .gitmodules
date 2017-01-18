@@ -1,3 +1,6 @@
+[submodule "SecLists"]
+	path = SecLists
+	url = https://github.com/danielmiessler/SecLists
 [submodule "BRDumps-wordlists"]
 	path = BRDumps-wordlists
 	url = https://github.com/BRDumps/wordlists
