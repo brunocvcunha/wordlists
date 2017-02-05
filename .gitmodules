@@ -4,3 +4,6 @@
 [submodule "BRDumps-wordlists"]
 	path = BRDumps-wordlists
 	url = https://github.com/BRDumps/wordlists
+[submodule "pt/portuguese-brazilian-synonyms"]
+	path = pt/portuguese-brazilian-synonyms
+	url = https://github.com/stavarengo/portuguese-brazilian-synonyms
